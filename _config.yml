@@ -177,24 +177,28 @@ ticketsOffers:
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+# - {link: "https://www.instagram.com/ucrpostdoctoral/", icon: "instagram"}
+# - {link: "https://twitter.com/intent/user?screen_name=UCRPostdoc", icon: "twitter"}
+# - {link: "https://facebook.com/UC-Riverside-Postdoctoral-Association-460810420930605", icon: "facebook"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "http://rpa.ucr.edu/", text: "RPA"}
+   - {link: "https://graduate.ucr.edu/", text: "Graduate Division"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:postdoc@ucr.edu", text: "postdoc@ucr.edu"}
+   - {link: "https://www.instagram.com/ucrpostdoctoral/", text: "Instagram"}
+   - {link: "https://twitter.com/intent/user?screen_name=UCRPostdoc", text: "Twitter"}
+   - {link: "https://facebook.com/UC-Riverside-Postdoctoral-Association-460810420930605", text: "Facebook"}
  -
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Code of Conduct"}
+
 
 # Blog
 blogTitle: "Latest news"
