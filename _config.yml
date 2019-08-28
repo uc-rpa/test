@@ -65,11 +65,13 @@ typeoutTextValues: '"", "Riverside"'
 # - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About GDG DevFest"
+aboutTitle: "Riverside Postdoctoral Association"
+aboutText1: "Welcome to the Riverside Postdoctoral Association (RPA) webpage. The RPA is an association run by postdocs for postdocs. The RPA works to improve the quality of life of postdoctoral researchers and their families at UCR by building a community and providing and supporting activities, both academic and otherwise, for all its members."
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Community", image: "Collaborate.jpg", text: "Add!" }
+ - {title: "Resources", image: "Invent.jpg", text: "Add" }
+ - {title: "Information", image: "Communicate.jpg", text: "Add" }
+ - {title: "Research", image: "Communicate.jpg", text: "Add" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
