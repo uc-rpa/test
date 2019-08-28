@@ -105,13 +105,16 @@ mapCenterCoordinates: "49.842537, 24.025701"
 mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "RPA"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Kinopalace Cinema"
-venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueSmallImage4: "venue_4.jpg"
+venueTitle: "See more photos!"
+venueFeatures: ["test"]
+venueLink:  
+ - {link: "https://photos.app.goo.gl/MFU3FGiJEmcwCPg26", text: "Become a speaker"}
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
