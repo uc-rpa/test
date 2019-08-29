@@ -1,50 +1,60 @@
 - 
-  date: "2014-10-24"
-  dateReadable: "October 24"
+  date: "09/19/2019"
+  dateReadable: "September"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
-    - {title: "Community", color: "#e91e63"}
+    - {title: "Coffee Hour", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [002, 003, 004]
+    	startTime: "10:30",
+    	endTime: "11:30",
+    	sessionIds: [001]
     }
+
+- 
+  date: "10/16/2019"
+  dateReadable: "October"
+  tracks: 
+    - {title: "Workshop", color: "#e91e63"}
+  timeslots: 
     - {
-        startTime: "11:00",
-        endTime: "11:45",
-        sessionIds: [003, 404, 004]
-    }
-    - {
-    	startTime: "12:00",
-    	endTime: "11:45",
-    	sessionIds: [307]
+    	startTime: "09:00",
+    	endTime: "11:00",
+    	sessionIds: [002]
     }
 - 
-  date: "2014-10-25"
-  dateReadable: "October 25"
+  date: "11/04/2019"
+  dateReadable: "November"
+  tracks: 
+     - {title: "Symposium", color: "#651082"}
+  timeslots: 
+    - {
+    	startTime: "09:00 AM",
+    	endTime: "05:00 PM",
+    	sessionIds: [003]
+    }
+    
+- 
+  date: "Past Events"
+  dateReadable: "Past Events"
   tracks: 
     - {title: "Android", color: "#90be4e"}
-    - {title: "Web & Cloud", color: "#03a9f4"}
   timeslots: 
     - {
     	startTime: "10:00",
     	endTime: "10:45",
-    	sessionIds: [404, 002]
+    	sessionIds: [001]
     }
-    - {
-    	startTime: "11:00",
-    	endTime: "11:45",
-    	sessionIds: [002, 003]
-    }
-    - {
-        startTime: "13:00",
-        endTime: "13:45",
-        sessionIds: [003]
-    }
-    - {
-    	startTime: "14:00",
-    	endTime: "15:00",
-    	sessionIds: [503]
-    }
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+#    - {title: "Coffee Hour", color: "#90be4e"}
+#    - {title: "Postdoc Hour", color: "#03a9f4"}
+#    - {title: "Workshop", color: "#e91e63"}
+#    - {title: "Symposium", color: "#651082"}
