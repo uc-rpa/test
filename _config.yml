@@ -56,10 +56,10 @@ navigationLinks:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "<typeout> Postdoctoral Association "
+heroTitle: "Riverside Postdoctoral Association <typeout>"
 # eventDate: "September - November, 2014"
-typeoutTextValues: '"Riverside"'
-#typeoutFallback: "Season"
+typeoutTextValues: '"RPA", ""'
+#typeoutFallback: "RPA"
 #heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 # - {permalink: "/#tickets", text: "Buy tickets"}
