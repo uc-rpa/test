@@ -43,22 +43,22 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/board/", text: "Board"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/hackathon/", text: "Hackathon"}
-bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {permalink: "/events/", text: "Events"}
+ - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/team/", text: "Team"}
+# - {permalink: "/logistics/", text: "Logistics"}
+# - {permalink: "/hackathon/", text: "Hackathon"}
+#bottomNavigationLinks:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+#rightNavigationButtons:
+# - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "<typeout> Postdoctoral Association "
 # eventDate: "September - November, 2014"
-typeoutTextValues: '"", "Riverside"'
+typeoutTextValues: '"Riverside"'
 #typeoutFallback: "Season"
 #heroButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
@@ -119,10 +119,11 @@ venueLink:
  - {link: "https://photos.app.goo.gl/MFU3FGiJEmcwCPg26", text: "Become a speaker"}
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
+tweetsFeedImage: "twitter.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
+twitterHashTag: "ucrpostdocsymposium2019"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
 
 # Partners Block
 organizersTitle: "Organizers"
