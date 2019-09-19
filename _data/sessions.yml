@@ -1,24 +1,33 @@
 -
-  id: 307
-  title: "Coffee Break"
-  place: "Hall"
-  service: true
-  description: "The best time to talk with speakers and attendees"
--
-  id: 503
-  title: "Lunch Break"
-  place: "Dining room"
-  service: true
--
   id: 001
   title: "September Coffee Hour"
   description: "September Coffee Hour"
   subtype: Coffee Hour
 #  speakers: [3, 6]
 #  language: en
-  complexity: "Intermediate"
-  video: "https://photos.app.goo.gl/Uw9Lvk8c5o33h7th8"
-  photo: "/img/events/CoffeeHour_August.png"
+#  complexity: "Intermediate"
+#  video: "https://photos.app.goo.gl/Uw9Lvk8c5o33h7th8"
+  photo: "/img/events/CoffeeHour_September.mp4"
+-
+  id: 004
+  title: "Cross-Angeles Postdoc Picnic"
+  description: "Cross-Angeles Postdoc Picnic"
+  subtype: Pinic
+#  speakers: [3, 6]
+#  language: en
+#  complexity: "Intermediate"
+#  video: "https://photos.app.goo.gl/Uw9Lvk8c5o33h7th8"
+  photo: "/img/events/picnic.jpg"
+-
+  id: 005
+  title: "PostDoc Hour"
+  description: "PostDoc Hour"
+  subtype: PostDoc Hour
+#  speakers: [3, 6]
+#  language: en
+#  complexity: "Intermediate"
+#  video: "https://photos.app.goo.gl/Uw9Lvk8c5o33h7th8"
+  photo: "/img/events/PostDoc_hour_Sep.jpg"
 -
   id: 002
   title: "GreenCard Workshop "
@@ -29,7 +38,7 @@
 #  complexity: "Intermediate" 
 #  presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
 #  video: "//www.youtube.com/embed/v3SCiUqI1yQ"
-  photo: "/img/events/CoffeeHour_August.png"
+  photo: "/img/events/workshop_greencard.jpg"
 -
   id: 003
   title: "Riverside Postdoc Symposium 2019"
@@ -40,4 +49,14 @@
 #  complexity: "Intermediate" 
   presentation: "https://speakerdeck.com/gdglviv/dmytro-danylyk-android-l-animation"
   photo: "https://rpa.ucr.edu/symposium2019/"
-
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining room"
+  service: true

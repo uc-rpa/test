@@ -2,9 +2,10 @@
 layout: post
 title:  "Postdoc Symposium 2019!"
 date:   2019-08-21 08:00:00
-isStaticPost: t
+isStaticPost: true
+image: statistic.jpg
 ---
 
-Coming soon!
+Click [here](https://rpa.ucr.edu/symposium2019/) for more information!
 
-![test](img/events/RPA_symposium flyer_june_2.jpg)
+

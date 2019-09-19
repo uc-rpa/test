@@ -5,11 +5,32 @@
     - {title: "Coffee Hour", color: "#90be4e"}
   timeslots:
     - {
-    	startTime: "10:30",
-    	endTime: "11:30",
+    	startTime: "09/",
+    	endTime: "19",
     	sessionIds: [001]
     }
-
+- 
+  date: "09/21/2019"
+  dateReadable: "September"
+  tracks: 
+    - {title: "Cross-Angeles Postdoc Picnic", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09/",
+    	endTime: "21",
+    	sessionIds: [004]
+    }
+- 
+  date: "09/27/2019"
+  dateReadable: "September"
+  tracks: 
+    - {title: "PostDoc Hour", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09/",
+    	endTime: "27",
+    	sessionIds: [005]
+    }
 - 
   date: "10/16/2019"
   dateReadable: "October"
@@ -17,8 +38,8 @@
     - {title: "Workshop", color: "#e91e63"}
   timeslots: 
     - {
-    	startTime: "09:00",
-    	endTime: "11:00",
+    	startTime: "10/",
+    	endTime: "16",
     	sessionIds: [002]
     }
 - 
@@ -28,8 +49,8 @@
      - {title: "Symposium", color: "#651082"}
   timeslots: 
     - {
-    	startTime: "09:00 AM",
-    	endTime: "05:00 PM",
+    	startTime: "11/",
+    	endTime: "04",
     	sessionIds: [003]
     }
     

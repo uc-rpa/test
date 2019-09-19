@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Upcoming Events"
+date:   2019-08-19 08:00:00
+isStaticPost: true
+image: statistic.jpg
+---
+
+# Upcoming Events!
+
+![All the information you need to know!](Upcoming.jpg)
+
+
