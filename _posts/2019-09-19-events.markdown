@@ -8,6 +8,6 @@ image: statistic.jpg
 
 # Upcoming Events!
 
-![All the information you need to know!](Upcoming.jpg)
+![All the information you need to know!](events/Upcoming.jpg)
 
 
