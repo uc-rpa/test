@@ -39,22 +39,11 @@
   company: "Treasurer"
   title: "Chemical & Environmental Engineering"
   bio: "I am a computational/theoretical chemist and materials scientist. My current focus is on developing, implementing and applying various non-adiabatic molecular dynamics methods to study Hot-molecule/atom/electron mediated catalysis. Here, non-adiabatic methods help us to understand how atoms will move when electrons jump between various potential energy surfaces. For simplicity, you can assume that the S, P, and D orbitals of a hydrogen atom as different potential energy surfaces. Part of my current research also focuses on Bio-mimetic catalysis. To know more about my research interests, please visit my scholar or LinkedIn pages."
-  thumbnailUrl: sharma_yamijala.png
+  thumbnailUrl: sharma_yamijala.jpg
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/sharmayamijala/"}
     - {name: "scholar", link: "https://scholar.google.com/citations?user=IglNkREAAAAJ&hl=en/"}
-- 
-  id: 55
-  name: "Francesc Gómez"
-  surname: "Marco"
-  company: "Symposium Director"
-  title: "Entomology"
-  bio: "Proactive biological control of the invasive pest, the Spotted Lantern Fly (SLF). Host specificity studies of the SLF parasitoid on the lantern fly native species from the west coast."
-  thumbnailUrl: francesc_marco.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"} 
 - 
   id: 66
   name: "Marta Ruiz"
@@ -65,7 +54,7 @@
   thumbnailUrl: marta_valdes.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}   
 - 
   id: 77
   name: "Aldo "
@@ -74,28 +63,6 @@
   title: "Entomology"
   bio: "Social parasitism across a latitudinal gradient, environmental and genetic drivers."
   thumbnailUrl: aldo_delamora.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
-- 
-  id: 8
-  name: "Marta"
-  surname: "Pudzianowska"
-  company: "Graphic Design Representative"
-  title: "Botany and Plant Sciences"
-  bio: "Turfgrass breeding and genetics. Improving warm-season grasses for winter color retention and drought tolerance."
-  thumbnailUrl: marta_pudzianowska.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
-- 
-  id: 9
-  name: "Salini"
-  surname: "Sasidharan"
-  company: "Symposium Advisor"
-  title: "Environmental Science"
-  bio: "Developing next-generation engineering infiltration techniques and devices to resolve many water quantity and quality issues across the globe. "
-  thumbnailUrl: salini_sasidharan.png
   rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
@@ -109,4 +76,38 @@
   thumbnailUrl: morgan_halane.jpg
   rockstar: true
   social: 
+    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}   
+-    
+  id: 8
+  name: "Marta"
+  surname: "Pudzianowska"
+  company: "Graphic Design Representative"
+  title: "Botany and Plant Sciences"
+  bio: "Turfgrass breeding and genetics. Improving warm-season grasses for winter color retention and drought tolerance."
+  thumbnailUrl: marta_pudzianowska.jpg
+  rockstar: true
+  social: 
     - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+- 
+  id: 55
+  name: "Francesc Gómez"
+  surname: "Marco"
+  company: "Symposium Director"
+  title: "Entomology"
+  bio: "Proactive biological control of the invasive pest, the Spotted Lantern Fly (SLF). Host specificity studies of the SLF parasitoid on the lantern fly native species from the west coast."
+  thumbnailUrl: francesc_marco.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"} 
+- 
+  id: 9
+  name: "Salini"
+  surname: "Sasidharan"
+  company: "Symposium Advisor"
+  title: "Environmental Science"
+  bio: "Developing next-generation engineering infiltration techniques and devices to resolve many water quantity and quality issues across the globe. "
+  thumbnailUrl: salini_sasidharan.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+
