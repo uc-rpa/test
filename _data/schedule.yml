@@ -1,37 +1,4 @@
 - 
-  date: "09/19/2019"
-  dateReadable: "September"
-  tracks: 
-    - {title: "Coffee Hour", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "09/",
-    	endTime: "19",
-    	sessionIds: [001]
-    }
-- 
-  date: "09/21/2019"
-  dateReadable: "September"
-  tracks: 
-    - {title: "Cross-Angeles Postdoc Picnic", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "09/",
-    	endTime: "21",
-    	sessionIds: [004]
-    }
-- 
-  date: "09/27/2019"
-  dateReadable: "September"
-  tracks: 
-    - {title: "PostDoc Hour", color: "#90be4e"}
-  timeslots:
-    - {
-    	startTime: "09/",
-    	endTime: "27",
-    	sessionIds: [005]
-    }
-- 
   date: "10/16/2019"
   dateReadable: "October"
   tracks: 
@@ -53,20 +20,38 @@
     	endTime: "04",
     	sessionIds: [003]
     }
-    
 - 
-  date: "Past Events"
+  date: "09/27/2019"
   dateReadable: "Past Events"
   tracks: 
-    - {title: "Android", color: "#90be4e"}
-  timeslots: 
+    - {title: "PostDoc Hour", color: "#90be4e"}
+  timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
+    	startTime: "09/",
+    	endTime: "27",
+    	sessionIds: [005]
+    }  
+- 
+  date: "09/21/2019"
+  tracks: 
+    - {title: "Cross-Angeles Postdoc Picnic", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09/",
+    	endTime: "21",
+    	sessionIds: [004]
+    }
+- 
+  date: "09/19/2019"
+  tracks: 
+    - {title: "Coffee Hour", color: "#90be4e"}
+  timeslots:
+    - {
+    	startTime: "09/",
+    	endTime: "19",
     	sessionIds: [001]
     }
 
-    
     
     
     
