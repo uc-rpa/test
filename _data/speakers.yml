@@ -8,7 +8,7 @@
   thumbnailUrl: anjapahor.jpg
   rockstar: true
   social: 
-    - {name: "email", link: "https://orcid.org/0000-0002-9396-4620"}
+    - {name: "site", link: "https://orcid.org/0000-0002-9396-4620"}
 - 
   id: 2
   name: "Daniela"
@@ -31,7 +31,7 @@
   thumbnailUrl: patricio_perez.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
 - 
   id: 44
   name: "Sharma"
@@ -54,29 +54,18 @@
   thumbnailUrl: marta_valdes.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}   
-- 
-  id: 77
-  name: "Aldo "
-  surname: "de la Mora"
-  company: "Social Chair"
-  title: "Entomology"
-  bio: "Social parasitism across a latitudinal gradient, environmental and genetic drivers."
-  thumbnailUrl: aldo_delamora.jpg
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}   
 - 
   id: 10
   name: "Morgan"
   surname: "Halane"
-  company: "Public Engagement Representative"
+  company: "Social Chair and Public Engagement Representative"
   title: "Plant Pathology and Microbiology"
   bio: "The roles of secreted proteins from the citrus greening disease-associated bacterium (CLas)"
   thumbnailUrl: morgan_halane.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}   
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}   
 -    
   id: 8
   name: "Marta"
@@ -87,7 +76,7 @@
   thumbnailUrl: marta_pudzianowska.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
 - 
   id: 55
   name: "Francesc Gómez"
@@ -98,7 +87,7 @@
   thumbnailUrl: francesc_marco.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"} 
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"} 
 - 
   id: 9
   name: "Salini"
@@ -109,5 +98,5 @@
   thumbnailUrl: salini_sasidharan.jpg
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
 
