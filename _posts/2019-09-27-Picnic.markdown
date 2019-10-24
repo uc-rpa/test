@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "UCR Postdocs Participated in Cross-Angeles Postdoc Picnic (NPAW 2019)"
+date:   2019-09-21 08:00:00
+isStaticPost: true
+image: raspberry.png
+---
+
+On Saturday, September 21st, 2019, the Postdoctoral Associations from the LA Area hosted a potluck picnic at the Los Angeles State Historic Park, in celebration of National Postdoc Appreciation Week (NPAW) 2019. Dr. Salini Sasidharan (Department of Environmental Science) and Dr. Morgan Halane (Department of Microbiology & Plant Pathology) represented the RPA and UCR. Postdocs from the University of California, Los Angeles, California State University, Cedars-Sinai Medical Center, City of Hope National Medical Center, NASA Jet Propulsion Laboratory, and California Institute of Technology have participated.
+
+<img src="picnic.jpg" alt="drawing" style="width:800px;"/>

@@ -74,7 +74,7 @@ aboutBlock:
  - {title: "Research", image: "Communicate.jpg", text: "Add" }
 
 # Statistic Block
-statisticBlockImage: "statistic.jpg"
+statisticBlockImage: "raspberry.png"
 statisticBlock:
  - {count: "220", specialCharacter: "+", info: "UCR Postdocs", detail: ""}
  - {count: "31", specialCharacter: "+", info: "Departments", detail: ""}
@@ -83,6 +83,13 @@ statisticBlock:
 
 # Latest News Block
 latestNewsTitle: "Latest news"
+
+# Subscribe Block
+subscribeImage: "blue.png"
+subscribeTitle: "Subscribe for updates"
+subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+subscribeInfo: "Subscribe to our Newsletter and stay tuned!"
+
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -119,7 +126,7 @@ venueLink:
  - {link: "https://photos.app.goo.gl/MFU3FGiJEmcwCPg26", text: "Become a speaker"}
 
 # Tweets Feed Block
-tweetsFeedImage: "twitter.jpg"
+tweetsFeedImage: "orange.png"
 tweetsFeedTitle: "What's Up?"
 twitterHashTag: "ucrpostdocsymposium2019"
 twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
@@ -129,12 +136,6 @@ twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_int
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
 partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Subscribe for updates"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
