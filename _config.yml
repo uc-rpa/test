@@ -207,7 +207,7 @@ footerBlocks:
 # Blog
 blogTitle: "Latest news"
 blogCommentsEnabled: true
-discusShortName: "devfestua"
+discusShortName: "RPA"
 
 # Speakers List Block
 showSessions: true
