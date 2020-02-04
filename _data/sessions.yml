@@ -1,4 +1,17 @@
 -
+  id: 006
+  title: "Join us on Sunday February 9th for a Potluck to meet postdocs and their families! 
+We will hang out at the UC Riverside Picnic Hill from 12 pm to 4 pm. Just bring some food to share. We will provide drinks. You can't miss it!"
+  description: "Join us on Sunday February 9th for a Potluck to meet postdocs and their families! 
+We will hang out at the UC Riverside Picnic Hill (See attached location map) from 12 pm to 4 pm. 
+Just bring some food to share. We will provide drinks. You can't miss it!"
+  subtype: Picnic
+#  speakers: [3, 6]
+#  language: en
+#  complexity: "Intermediate"
+#  video: "https://photos.app.goo.gl/Uw9Lvk8c5o33h7th8"
+  photo: "/img/events/CoffeeHour_September.mp4"
+-
   id: 001
   title: "September Coffee Hour"
   description: "September Coffee Hour"

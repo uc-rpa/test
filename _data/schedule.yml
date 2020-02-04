@@ -1,17 +1,17 @@
-- 
-  date: "10/16/2019"
-  dateReadable: "October"
+-
+  date: "02/09/2020"
+  dateReadable: "February"
   tracks: 
-    - {title: "Workshop", color: "#e91e63"}
+     - {title: "Potluck for Postdocs & Family at Picnic Hill - UCR", color: "#90be4e"}
   timeslots: 
     - {
-    	startTime: "10/",
-    	endTime: "16",
-    	sessionIds: [002]
+    	startTime: "02/",
+    	endTime: "09",
+    	sessionIds: [006]
     }
-- 
+-
   date: "11/04/2019"
-  dateReadable: "November"
+  dateReadable: "Past Events"
   tracks: 
      - {title: "Symposium", color: "#651082"}
   timeslots: 
@@ -21,8 +21,17 @@
     	sessionIds: [003]
     }
 - 
+  date: "10/16/2019"
+  tracks: 
+    - {title: "Workshop", color: "#e91e63"}
+  timeslots: 
+    - {
+    	startTime: "10/",
+    	endTime: "16",
+    	sessionIds: [002]
+    }
+- 
   date: "09/27/2019"
-  dateReadable: "Past Events"
   tracks: 
     - {title: "PostDoc Hour", color: "#90be4e"}
   timeslots:
