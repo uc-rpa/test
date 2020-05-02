@@ -1,4 +1,15 @@
 -
+  date: "05/02/2020"
+  dateReadable: "May"
+  tracks: 
+     - {title: "CALL FOR NOMINATIONS FOR 2020-2021 RPA BOARD", color: "#e9731e"}
+  timeslots: 
+    - {
+    	startTime: "05/",
+    	endTime: "02",
+    	sessionIds: [007]
+    }
+-
   date: "02/09/2020"
   dateReadable: "February"
   tracks: 
@@ -69,7 +80,8 @@
     
     
     
-#    - {title: "Coffee Hour", color: "#90be4e"}
-#    - {title: "Postdoc Hour", color: "#03a9f4"}
-#    - {title: "Workshop", color: "#e91e63"}
-#    - {title: "Symposium", color: "#651082"}
+#    - {title: "Coffee Hour", color: "#90be4e"} ## green
+#    - {title: "Postdoc Hour", color: "#03a9f4"} ## Blue
+#    - {title: "Workshop", color: "#e91e63"} ## Pink
+#    - {title: "Symposium", color: "#651082"} ## purple
+#    - {title: "Election", color: "#e9731e"} ## Orange

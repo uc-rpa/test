@@ -17,6 +17,5 @@ Just bring some food to share. We will provide drinks. You can't miss it!
 
 Click [here](picnic-hill.jpeg) to view Maps.
 
-
 Please, contact us if you have any question at postdoc@ucr.edu
 

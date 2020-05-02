@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Call for Nominations for 2020-2021 RPA Board"
+date: 2020-05-02 08:00:00
+isStaticPost: true
+image: orange.png
+---
+
+#### Call for Nominations for 2020-2021 RPA Board
+
+In order to maintain an active postdoc community on campus, we need dedicated individuals to serve on the board.
+
+Nominations are now open and will remain open until **May 12th at 5 PM**. 
+
+**Check your R'Mail** inbox for instructions on how to become part of the board or how to nominate someone else!
+
+If you have any questions, send an email to [postdoc@ucr.edu](postdoc@ucr.edu).
+
