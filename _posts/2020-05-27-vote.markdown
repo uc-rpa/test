@@ -1,0 +1,20 @@
+---
+layout: post
+title: " Vote for the new RPA board! Only a few days left!"
+date: 2020-05-27 08:00:00
+isStaticPost: true
+image: orange.png
+---
+
+#### Vote for 2020-2021 RPA Board! Only a few days left!
+
+The 2020-2021 Postdoc Association Election Polls are now open. 
+We have a number of fantastic candidates, but we need your votes to help determine who will become part of the Board. 
+Each candidate provided a short BIO to help you decide. 
+
+Voting will conclude on May 31st, with winners contacted on June 1st and announced shortly after. 
+
+**Check your R'Mail** inbox for instructions on how to vote.
+
+If you have any questions, send an email to [postdoc@ucr.edu](postdoc@ucr.edu).
+

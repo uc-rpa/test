@@ -1,4 +1,16 @@
 -
+  date: "05/27/2020"
+  dateReadable: "May"
+  tracks: 
+     - {title: "Vote for 2020-2021 RPA Board", color: "#e9731e"}
+  timeslots: 
+    - {
+    	startTime: "05/",
+    	endTime: "27",
+    	sessionIds: [008]
+    }
+-
+-
   date: "05/02/2020"
   dateReadable: "May"
   tracks: 
