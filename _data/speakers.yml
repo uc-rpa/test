@@ -1,7 +1,7 @@
 - 
   id: 1
   name: "Evelyn"
-  surname: "Moralez Vazquez"
+  surname: "Vazquez"
   company: "President"
   title: "Social Medicine, Population and Public Health"
   bio: "I am a first-generation student and an adult English second language (ESL) learner. I am a social psychologist interested in the study of social determinants of poor mental health among marginalized communities in higher education settings. I hold a Ph.D. in education (Dr. John Levin was my advisor). My research expertise is on the professional development, mental health, and well-being in the academic profession. Most recently I am leading a research project that focuses on structural vulnerability and mental health disparities among underrepresented graduate and professional students. I am currently a postdoctoral scholar at the School of Medicine under the mentorship of Dr. Ann Cheney.
@@ -76,7 +76,7 @@
   surname: "Arantes"
   company: "Graphic Design Representative"
   title: "Bioengineering"
-  bio: "I am a computational biophysicist with a heavy interest on simulation studies of proteins, membranes, small ligands and glycoconjugates. Since my Undergraduate, Masters and PhD research experience, I have worked with computational strategies for structural prediction and biological systems analysis, mainly using molecular dynamics and metadynamics calculations. I am currently working on The Palermo Lab with Professor Giulia Palermo. I am a curious and outgoing person. Outside of academia, I like to cook, to watch movies and to know new places. places. I’m passionate about coffee, I like to try new coffee makers and new types of coffees."
+  bio: "I am a computational biophysicist with a heavy interest on simulation studies of proteins, membranes, small ligands and glycoconjugates. Since my Undergraduate, Masters and PhD research experience, I have worked with computational strategies for structural prediction and biological systems analysis, mainly using molecular dynamics and metadynamics calculations. I am currently working on The Palermo Lab with Professor Giulia Palermo. I am a curious and outgoing person. Outside of academia, I like to cook, to watch movies and to know new places. I’m passionate about coffee, I like to try new coffee makers and new types of coffees."
   thumbnailUrl: pablo.png
   rockstar: true
   social: 
