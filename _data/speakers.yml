@@ -10,94 +10,87 @@
   rockstar: true
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/evelynmvazquez"}
+    - {name: "twitter", link: "https://twitter.com/DrEvelynVazquez"}
+
 - 
   id: 2
-  name: "Daniela"
-  surname: "Cassol"
+  name: "Lewis"
+  surname: "Hun"
   company: "Vice President"
-  title: "Botany and Plant Sciences"
-  bio: "Development of computational data analysis methods for genome biology."
-  thumbnailUrl: daniela_cassol.jpg
+  title: "Entomology"
+  bio: "I am the first generation in my family to pursue and earn a degree in higher education. I earned my M.S and Ph.D. from the University of Arizona. My current research interests focus on the function of insect steroid hormone importers. Steroid hormones are a group of lipophilic hormones that mediate many biological processes such as growth and development in insects, sexual maturation, immunity and cancer progression in humans. Steroid hormones are produced by endocrine glands and must enter cells by simple diffusion to regulate diverse physiological processes through intracellular nuclear receptors. I am working to characterize the function(s) of the Ecdysone importer in mosquitoes and other insect vector-borne diseases."
+  thumbnailUrl: lewis.png
   rockstar: true
   social: 
-    - {name: "twitter", link: "https://twitter.com/danicassol"}
-    - {name: "github", link: "https://github.com/dcassol"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/lewis-hun-95378835/"}
+    - {name: "twitter", link: "https://https://twitter.com/lewishun929"}
 - 
   id: 33
-  name: "Patricio"
-  surname: "Perez"
+  name: "Kerianne"
+  surname: " Wilson"
   company: "Secretary"
-  title: "Botany and Plant Sciences"
-  bio: "I am working at Yang Lab in the elucidation of the global mechanisms that spatiotemporally coordinate the pavement cell morphogenesis throughout the entire epidermis of leaves in Arabidopsis."
-  thumbnailUrl: patricio_perez.jpg
+  title: "Ecology, Evolution, and Organismal Biology"
+  bio: "I study behavior and neuroendocrinology in Dr. Wendy Saltzmans’s lab. My research aims to determine the effects of fatherhood on responsiveness to newborn olfactory and auditory cues and to elucidate the underlying neural and hormonal mechanisms. I am also interested and have experience in pedagogy."
+  thumbnailUrl: keri.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/keri-wilson-a37b4876/"}
+    - {name: "twitter", link: "https://twitter.com/Keri_M_Wilson"}
 - 
   id: 44
-  name: "Sharma"
-  surname: "Yamijala"
+  name: "Ying"
+  surname: "Sun"
   company: "Treasurer"
-  title: "Chemical & Environmental Engineering"
-  bio: "I am a computational/theoretical chemist and materials scientist. My current focus is on developing, implementing and applying various non-adiabatic molecular dynamics methods to study Hot-molecule/atom/electron mediated catalysis. Here, non-adiabatic methods help us to understand how atoms will move when electrons jump between various potential energy surfaces. For simplicity, you can assume that the S, P, and D orbitals of a hydrogen atom as different potential energy surfaces. Part of my current research also focuses on Bio-mimetic catalysis. To know more about my research interests, please visit my scholar or LinkedIn pages."
-  thumbnailUrl: sharma_yamijala.jpg
+  title: "Botany and Plant Science"
+  bio: "Ying is a first-generation college student who immigrated to the US from rural China when she was young. She grew up in Las Vegas, NV where her parents worked as casino dealers. After high school, she attended UC San Diego to obtain a BS in Biochemistry, Cell Biology. While at UCSD, Ying was a part of the McNair Scholars program which supports students interested in obtaining a PhD. She did her PhD with Dr. José Dinneny at Stanford University to study plants that live in extreme environments. At Riverside, Ying is co-advised by Sue Wessler and Jason Stajich to understand the impact of transposable elements in rice. Ying enjoys volunteering, baking, playing with animals, dancing, any outdoor activity, ice skating, and watching TV! She believes in mentorship and advocates for inclusion, equity, diversifying academia and solidarity. She hopes to promote the mindset of having gratitude, respect, and love toward one another in academia."
+  thumbnailUrl: ying.jpg
   rockstar: true
   social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sharmayamijala/"}
-    - {name: "scholar", link: "https://scholar.google.com/citations?user=IglNkREAAAAJ&hl=en/"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/sunyings/"}
+    - {name: "twitter", link: "https://twitter.com/sunying12"}
 - 
   id: 66
-  name: "Marta Ruiz"
-  surname: "Valdés"
+  name: "Anne"
+  surname: "Hilborn"
   company: "Communications Director"
-  title: "Botany and Plant Sciences"
-  bio: "Development of fast screening methods to detect resistance or tolerance to biotic stresses (Citrus nematode, Citrus tristeza virus & Huanglongbing) for citrus breeding in California."
-  thumbnailUrl: marta_valdes.jpg
+  title: "Ecology, Evolution, and Organismal Biology"
+  bio: "I work with faculty to create online ecology classes.  I’m interested in using social media for science communication and helping create a greater sense of community for postdocs at UCR."
+  thumbnailUrl: anne.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://twitter.com/UCRPostdoc"}   
+    - {name: "twitter", link: "https://twitter.com/AnneWHilborn"}   
 - 
   id: 10
-  name: "Morgan"
-  surname: "Halane"
+  name: "Francesco"
+  surname: "Pancaldi"
   company: "Social Chair and Public Engagement Representative"
-  title: "Plant Pathology and Microbiology"
-  bio: "The roles of secreted proteins from the citrus greening disease-associated bacterium (CLas)"
-  thumbnailUrl: morgan_halane.jpg
+  title: "Mathematics"
+  bio: "I am a 4th-year Postdoc (3rd year at UCR) working on mathematical and computational models for biomedical applications. I am also trying to get more undergrads involved in mathematical models. I love gardening (herbs and vegetables), reading books, playing videogames, and binge watch sitcoms and Scifi shows. I have loved my time at UCR and I would like to give back in particular to the Postdoc community by serving as Social Chair for the RPA."
+  thumbnailUrl: franceso.jpg
   rockstar: true
   social: 
-    - {name: "site", link: "https://twitter.com/UCRPostdoc"}   
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fpancald/"}   
 -    
   id: 8
-  name: "Marta"
-  surname: "Pudzianowska"
+  name: "Pablo"
+  surname: "Arantes"
   company: "Graphic Design Representative"
-  title: "Botany and Plant Sciences"
-  bio: "Turfgrass breeding and genetics. Improving warm-season grasses for winter color retention and drought tolerance."
-  thumbnailUrl: marta_pudzianowska.jpg
+  title: "Bioengineering"
+  bio: "I am a computational biophysicist with a heavy interest on simulation studies of proteins, membranes, small ligands and glycoconjugates. Since my Undergraduate, Masters and PhD research experience, I have worked with computational strategies for structural prediction and biological systems analysis, mainly using molecular dynamics and metadynamics calculations. I am currently working on The Palermo Lab with Professor Giulia Palermo. I am a curious and outgoing person. Outside of academia, I like to cook, to watch movies and to know new places. places. I’m passionate about coffee, I like to try new coffee makers and new types of coffees."
+  thumbnailUrl: pablo.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/pablo-ricardo-arantes/"}
+    - {name: "twitter", link: "https://twitter.com/pablitoarantes"}
 - 
   id: 55
-  name: "Francesc Gómez"
-  surname: "Marco"
+  name: "Claudineia"
+  surname: "Costa "
   company: "Symposium Director"
   title: "Entomology"
-  bio: "Proactive biological control of the invasive pest, the Spotted Lantern Fly (SLF). Host specificity studies of the SLF parasitoid on the lantern fly native species from the west coast."
-  thumbnailUrl: francesc_marco.jpg
+  bio: "I am of the first generation in my family to achieve graduate education and an academic career. I earned my Ph.D. from the University of São Paulo in Brazil, studying the population dynamics of orchid bees in different areas in the Atlantic Forest. I am an expert in molecular biology and have worked with bees for over 10 years, with additional experience in developmental biology. In 2018, I joined Prof Hollis Woodard lab at UCR and started to study the mechanisms controlling larval development and ultimate body size, which are crucial for the organization of bumblebee societies. My current research focuses on understanding how early development influences the quality of workers and their pollination services. As a Black Woman Scientist, it is my ultimate goal to be a researcher that creates an environment that dually engages and supports other students and researchers from diverse backgrounds. Outside academic life, I love to travel, I love to dance, and I love photographs."
+  thumbnailUrl: claudineia.png
   rockstar: true
   social: 
-    - {name: "site", link: "https://twitter.com/UCRPostdoc"} 
-- 
-  id: 9
-  name: "Salini"
-  surname: "Sasidharan"
-  company: "Symposium Advisor"
-  title: "Environmental Science"
-  bio: "Developing next-generation engineering infiltration techniques and devices to resolve many water quantity and quality issues across the globe. "
-  thumbnailUrl: salini_sasidharan.jpg
-  rockstar: true
-  social: 
-    - {name: "site", link: "https://twitter.com/UCRPostdoc"}
+    - {name: "twitter", link: "https://twitter.com/claupcosta"} 
 
