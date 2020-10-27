@@ -37,18 +37,6 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/keri-wilson-a37b4876/"}
     - {name: "twitter", link: "https://twitter.com/Keri_M_Wilson"}
 - 
-  id: 44
-  name: "Ying"
-  surname: "Sun"
-  company: "Treasurer"
-  title: "Botany and Plant Science, China/United States"
-  bio: "Ying is a first-generation college student who immigrated to the US from rural China when she was young. She grew up in Las Vegas, NV where her parents worked as casino dealers. After high school, she attended UC San Diego to obtain a BS in Biochemistry, Cell Biology. While at UCSD, Ying was a part of the McNair Scholars program which supports students interested in obtaining a PhD. She did her PhD with Dr. José Dinneny at Stanford University to study plants that live in extreme environments. At Riverside, Ying is co-advised by Sue Wessler and Jason Stajich to understand the impact of transposable elements in rice. Ying enjoys volunteering, baking, playing with animals, dancing, any outdoor activity, ice skating, and watching TV! She believes in mentorship and advocates for inclusion, equity, diversifying academia and solidarity. She hopes to promote the mindset of having gratitude, respect, and love toward one another in academia."
-  thumbnailUrl: ying.png
-  rockstar: true
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/in/sunyings/"}
-    - {name: "twitter", link: "https://twitter.com/sunying12"}
-- 
   id: 66
   name: "Anne"
   surname: "Hilborn"
@@ -82,15 +70,3 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pablo-ricardo-arantes/"}
     - {name: "twitter", link: "https://twitter.com/pablitoarantes"}
-- 
-  id: 55
-  name: "Claudineia"
-  surname: "Costa "
-  company: "Symposium Director"
-  title: "Entomology, Brazil"
-  bio: "I am of the first generation in my family to achieve graduate education and an academic career. I earned my Ph.D. from the University of São Paulo in Brazil, studying the population dynamics of orchid bees in different areas in the Atlantic Forest. I am an expert in molecular biology and have worked with bees for over 10 years, with additional experience in developmental biology. In 2018, I joined Prof Hollis Woodard lab at UCR and started to study the mechanisms controlling larval development and ultimate body size, which are crucial for the organization of bumblebee societies. My current research focuses on understanding how early development influences the quality of workers and their pollination services. As a Black Woman Scientist, it is my ultimate goal to be a researcher that creates an environment that dually engages and supports other students and researchers from diverse backgrounds. Outside academic life, I love to travel, I love to dance, and I love photographs."
-  thumbnailUrl: claudineia.png
-  rockstar: true
-  social: 
-    - {name: "twitter", link: "https://twitter.com/claupcosta"} 
-
