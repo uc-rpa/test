@@ -70,3 +70,14 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/pablo-ricardo-arantes/"}
     - {name: "twitter", link: "https://twitter.com/pablitoarantes"}
+ -    
+  id: 9
+  name: "Keely"
+  surname: "Brown"
+  company: "Treasurer"
+  title: "Botany & Plant Sciences, US"
+  bio: "I’m an evolutionary plant geneticist broadly interested in how natural selection works to maintain genetic diversity in populations. I earned my PhD from the University of Kansas (Go Jayhawks!), and I’m currently a National Science Foundation Postdoctoral Fellow working with Dr. Dan Koenig to characterize how fluctuations in the environment (like yearly temperature differences) contribute to the maintenance of genetic variation in a century-old experimental barley population."
+  thumbnailUrl: keely.png
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Keely_Brown_PhD"}
