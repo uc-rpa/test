@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/news/", text: "News"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
- - {permalink: "/donate/", text: "Donate"}
+# - {permalink: "/donate/", text: "Donate"}
 #bottomNavigationLinks:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
