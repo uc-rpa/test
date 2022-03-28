@@ -54,8 +54,9 @@ navigationLinks:
 bottomNavigationLinks:
   - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdEHRccXFRnzQuhXQOO2onVtSReTbUdzoOUX5KVawJfC4dSiQ/viewform?usp=sf_link", text: "Symposium registration"}
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
-#rightNavigationButtons:
+rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdEHRccXFRnzQuhXQOO2onVtSReTbUdzoOUX5KVawJfC4dSiQ/viewform?usp=sf_link", text: "Symposium registration"}
 
 # Hero Block
 heroImage: "hero.png"
