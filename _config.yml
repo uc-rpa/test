@@ -47,10 +47,12 @@ navigationLinks:
  - {permalink: "/board/", text: "Board"}
  - {permalink: "/events/", text: "Events"}
  - {permalink: "/news/", text: "News"}
+ - {permalink: "/symposium/", text: "Symposium"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/donate/", text: "Donate"}
-#bottomNavigationLinks:
+bottomNavigationLinks:
+  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSdEHRccXFRnzQuhXQOO2onVtSReTbUdzoOUX5KVawJfC4dSiQ/viewform?usp=sf_link", text: "Symposium registration"}
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 #rightNavigationButtons:
 # - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
