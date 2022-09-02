@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TEST POST WITHOUT JEKYLL"
+date:   2022-09-02
+isStaticPost: true
+image: raspberry.png
+---
+
+DOES IT WORK??
