@@ -47,7 +47,7 @@ navigationLinks:
  - {permalink: "/board/", text: "Board"}
  - {permalink: "/events/", text: "Events"}
  - {permalink: "/news/", text: "News"}
- - {permalink: "/symposium/", text: "Symposium"}
+ #- {permalink: "/symposium/", text: "Symposium"}
 # - {permalink: "/team/", text: "Team"}
 # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/donate/", text: "Donate"}
